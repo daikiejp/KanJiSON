@@ -1,0 +1,128 @@
+{
+  "kanji": "一",
+  "strokes": 1,
+  "reading": "いち",
+  "kanji_en": "one",
+  "kanji_es": "uno",
+  "on": "イチ, イツ",
+  "kun": "ひと, ひとつ",
+  "jlpt": 5,
+  "grade": "1",
+  "words": [
+    {
+      "word_en": "one",
+      "word_es": "uno",
+      "pos_es": "numeral",
+      "pos_en": "numeral",
+      "reading": "いち",
+      "kanji": "一",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "一から十まで数えてください。",
+          "furigana": "一(いち)から十(じゅう)まで数(かぞ)えてください。",
+          "sentence_es": "Cuente del uno al diez, por favor.",
+          "sentence_en": "Please count from one to ten."
+        }
+      ]
+    },
+    {
+      "word_en": "one thing",
+      "word_es": "una cosa",
+      "pos_es": "sustantivo",
+      "pos_en": "noun",
+      "reading": "ひとつ",
+      "kanji": "一つ",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "質問が一つあります。",
+          "furigana": "質問(しつもん)が一(ひと)つあります。",
+          "sentence_es": "Tengo una pregunta.",
+          "sentence_en": "I have one question."
+        },
+        {
+          "sentence": "リンゴを一つください。",
+          "furigana": "リンゴを一(ひと)つください。",
+          "sentence_es": "Deme una manzana, por favor.",
+          "sentence_en": "Please give me one apple."
+        }
+      ]
+    },
+    {
+      "word_en": "number one / best / most",
+      "word_es": "número uno / el mejor / el más",
+      "pos_es": "adjetivo / sustantivo",
+      "pos_en": "adjective / noun",
+      "reading": "いちばん",
+      "kanji": "一番",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "日本で一番高い山は富士山です。",
+          "furigana": "日本(にほん)で一番(いちばん)高(たか)い山(やま)は富士山(ふじさん)です。",
+          "sentence_es": "La montaña más alta de Japón es el Monte Fuji.",
+          "sentence_en": "The highest mountain in Japan is Mount Fuji."
+        }
+      ]
+    },
+    {
+      "word_en": "together",
+      "word_es": "juntos",
+      "pos_es": "adverbio / sustantivo",
+      "pos_en": "adverb / noun",
+      "reading": "いっしょ",
+      "kanji": "一緒",
+      "jlpt": 4,
+      "sentences": [
+        {
+          "sentence": "明日、一緒に勉強しませんか?",
+          "furigana": "明日(あした)、一緒(いっしょ)に勉強(べんきょう)しませんか?",
+          "sentence_es": "¿Estudiamos juntos mañana?",
+          "sentence_en": "Shall we study together tomorrow?"
+        }
+      ]
+    },
+    {
+      "word_en": "general / ordinary",
+      "word_es": "general / común",
+      "pos_es": "sustantivo / adjetivo",
+      "pos_en": "noun / adjective",
+      "reading": "いっぱん",
+      "kanji": "一般",
+      "jlpt": 3,
+      "sentences": [
+        {
+          "sentence": "これは一般的な意見です。",
+          "furigana": "これは一般(いっぱん)的(てき)な意見(いけん)です。",
+          "sentence_es": "Esta es una opinión general.",
+          "sentence_en": "This is a general opinion."
+        }
+      ]
+    },
+    {
+      "word_en": "unification / unity",
+      "word_es": "unificación / unidad",
+      "pos_es": "sustantivo / verbo",
+      "pos_en": "noun / verb",
+      "reading": "とういつ",
+      "kanji": "統一",
+      "jlpt": 2,
+      "sentences": [
+        {
+          "sentence": "精神を統一しました。",
+          "furigana": "精神(せいしん)を統一(とういつ)しました。",
+          "sentence_es": "Concentré mi espíritu (me concentré).",
+          "sentence_en": "I concentrated my mind."
+        },
+        {
+          "sentence": "彼らは意見を統一しようとしています。",
+          "furigana": "彼(かれ)らは意見(いけん)を統一(とういつ)しようとしています。",
+          "sentence_es": "Ellos están intentando unificar sus opiniones.",
+          "sentence_en": "They are trying to unify their opinions."
+        }
+      ]
+    }
+  ]
+}
+

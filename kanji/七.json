@@ -1,0 +1,150 @@
+{
+  "kanji": "七",
+  "strokes": 2,
+  "reading": "なな, しち",
+  "kanji_en": "seven",
+  "kanji_es": "siete",
+  "on": "シチ",
+  "kun": "なな, なな.つ, なの",
+  "jlpt": 5,
+  "grade": "1",
+  "words": [
+    {
+      "word_en": "seven",
+      "word_es": "siete",
+      "pos_es": "numeral",
+      "pos_en": "numeral",
+      "reading": "なな / しち",
+      "kanji": "七",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "七人の侍。",
+          "furigana": "七(しち)人(にん)の侍(さむらい)。",
+          "sentence_es": "Los siete samuráis.",
+          "sentence_en": "The Seven Samurai."
+        },
+        {
+          "sentence": "ラッキーセブンは七です。",
+          "furigana": "ラッキーセブンは七(なな)です。",
+          "sentence_es": "El número de la suerte es el siete.",
+          "sentence_en": "Lucky seven is seven."
+        }
+      ]
+    },
+    {
+      "word_en": "seven things",
+      "word_es": "siete cosas",
+      "pos_es": "numeral contable",
+      "pos_en": "counter numeral",
+      "reading": "ななつ",
+      "kanji": "七つ",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "七つの海を渡る。",
+          "furigana": "七(なな)つの海(うみ)を渡(わた)る。",
+          "sentence_es": "Cruzar los siete mares.",
+          "sentence_en": "Cross the seven seas."
+        },
+        {
+          "sentence": "ミカンを七つ買いました。",
+          "furigana": "ミカンを七(なな)つ買(か)いました。",
+          "sentence_es": "Compré siete mandarinas.",
+          "sentence_en": "I bought seven tangerines."
+        }
+      ]
+    },
+    {
+      "word_en": "July",
+      "word_es": "Julio",
+      "pos_es": "sustantivo propio",
+      "pos_en": "proper noun",
+      "reading": "しちがつ",
+      "kanji": "七月",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "七月はとても暑いです。",
+          "furigana": "七月(しちがつ)はとても暑(あつ)いです。",
+          "sentence_es": "Julio es muy caluroso.",
+          "sentence_en": "July is very hot."
+        },
+        {
+          "sentence": "七月に旅行に行きます。",
+          "furigana": "七月(しちがつ)に旅行(りょこう)に行(い)きます。",
+          "sentence_es": "Voy de viaje en julio.",
+          "sentence_en": "I'm going on a trip in July."
+        }
+      ]
+    },
+    {
+      "word_en": "7th day of month / 7 days",
+      "word_es": "día 7 del mes / 7 días",
+      "pos_es": "sustantivo (fecha)",
+      "pos_en": "noun (date)",
+      "reading": "なのか",
+      "kanji": "七日",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "来月の七日に会いましょう。",
+          "furigana": "来月(らいげつ)の七日(なのか)に会(あ)いましょう。",
+          "sentence_es": "Encontrémonos el día 7 del próximo mes.",
+          "sentence_en": "Let's meet on the 7th of next month."
+        }
+      ]
+    },
+    {
+      "word_en": "7 o'clock",
+      "word_es": "las 7 en punto",
+      "pos_es": "expresión de tiempo",
+      "pos_en": "time expression",
+      "reading": "しちじ",
+      "kanji": "七時",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "毎朝七時に起きます。",
+          "furigana": "毎朝(まいあさ)七時(しちじ)に起(お)きます。",
+          "sentence_es": "Me despierto a las siete todas las mañanas.",
+          "sentence_en": "I wake up at seven every morning."
+        }
+      ]
+    },
+    {
+      "word_en": "seventh grade",
+      "word_es": "séptimo grado",
+      "pos_es": "sustantivo",
+      "pos_en": "noun",
+      "reading": "しちねんせい",
+      "kanji": "七年生",
+      "jlpt": 2,
+      "sentences": [
+        {
+          "sentence": "七年生の時に初めてサッカーを始めた。",
+          "furigana": "七年生(しちねんせい)の時(とき)に初(はじ)めてサッカーを始(はじ)めた。",
+          "sentence_es": "Empecé a jugar fútbol en séptimo grado.",
+          "sentence_en": "I started playing soccer in seventh grade."
+        }
+      ]
+    },
+    {
+      "word_en": "Tanabata (Star Festival)",
+      "word_es": "Tanabata (Festival de las Estrellas)",
+      "pos_es": "sustantivo propio",
+      "pos_en": "proper noun",
+      "reading": "たなばた",
+      "kanji": "七夕",
+      "jlpt": 1,
+      "sentences": [
+        {
+          "sentence": "七夕は七月七日です。",
+          "furigana": "七夕(たなばた)は七月(しちがつ)七日(なのか)です。",
+          "sentence_es": "Tanabata es el 7 de julio.",
+          "sentence_en": "Tanabata is on July 7th."
+        }
+      ]
+    }
+  ]
+}

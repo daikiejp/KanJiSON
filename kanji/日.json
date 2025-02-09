@@ -1,0 +1,144 @@
+{
+  "kanji": "日",
+  "strokes": 4,
+  "reading": "にち",
+  "kanji_en": "day / sun",
+  "kanji_es": "día / sol",
+  "on": "ニチ, ジツ",
+  "kun": "ひ, -び, -か",
+  "jlpt": 5,
+  "grade": "1",
+  "words": [
+    {
+      "word_en": "Japan",
+      "word_es": "Japón",
+      "pos_es": "sustantivo propio",
+      "pos_en": "proper noun",
+      "reading": "にほん",
+      "kanji": "日本",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "私は日本に住んでいます。",
+          "furigana": "私(わたし)は日本(にほん)に住(す)んでいます。",
+          "sentence_es": "Vivo en Japón.",
+          "sentence_en": "I live in Japan."
+        },
+        {
+          "sentence": "日本料理が好きです。",
+          "furigana": "日本(にほん)料理(りょうり)が好(す)きです。",
+          "sentence_es": "Me gusta la comida japonesa.",
+          "sentence_en": "I like Japanese food."
+        }
+      ]
+    },
+    {
+      "word_en": "Sunday",
+      "word_es": "Domingo",
+      "pos_es": "sustantivo",
+      "pos_en": "noun",
+      "reading": "にちようび",
+      "kanji": "日曜日",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "日曜日は図書館に行きます。",
+          "furigana": "日曜日(にちようび)は図書館(としょかん)に行(い)きます。",
+          "sentence_es": "Voy a la biblioteca los domingos.",
+          "sentence_en": "I go to the library on Sundays."
+        }
+      ]
+    },
+    {
+      "word_en": "today",
+      "word_es": "hoy",
+      "pos_es": "adverbio",
+      "pos_en": "adverb",
+      "reading": "きょう",
+      "kanji": "今日",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "今日はいい天気です。",
+          "furigana": "今日(きょう)はいい天気(てんき)です。",
+          "sentence_es": "Hoy hace buen tiempo.",
+          "sentence_en": "The weather is nice today."
+        }
+      ]
+    },
+    {
+      "word_en": "every day",
+      "word_es": "todos los días",
+      "pos_es": "adverbio / expresión de tiempo",
+      "pos_en": "adverb / time expression",
+      "reading": "まいにち",
+      "kanji": "毎日",
+      "jlpt": 5,
+      "sentences": [
+        {
+          "sentence": "毎日コーヒーを飲みます。",
+          "furigana": "毎日(まいにち)コーヒーを飲(の)みます。",
+          "sentence_es": "Bebo café todos los días.",
+          "sentence_en": "I drink coffee every day."
+        }
+      ]
+    },
+    {
+      "word_en": "diary",
+      "word_es": "diario",
+      "pos_es": "sustantivo",
+      "pos_en": "noun",
+      "reading": "にっき",
+      "kanji": "日記",
+      "jlpt": 4,
+      "sentences": [
+        {
+          "sentence": "寝る前に日記を書きます。",
+          "furigana": "寝(ね)る前(まえ)に日記(にっき)を書(か)きます。",
+          "sentence_es": "Escribo en mi diario antes de dormir.",
+          "sentence_en": "I write in my diary before going to sleep."
+        }
+      ]
+    },
+    {
+      "word_en": "holiday",
+      "word_es": "feriado",
+      "pos_es": "sustantivo",
+      "pos_en": "noun",
+      "reading": "きゅうじつ",
+      "kanji": "休日",
+      "jlpt": 3,
+      "sentences": [
+        {
+          "sentence": "次の休日はいつですか？",
+          "furigana": "次(つぎ)の休日(きゅうじつ)はいつですか？",
+          "sentence_es": "¿Cuándo es el próximo feriado?",
+          "sentence_en": "When is the next holiday?"
+        }
+      ]
+    },
+    {
+      "word_en": "schedule / itinerary",
+      "word_es": "horario / agenda",
+      "pos_es": "sustantivo",
+      "pos_en": "noun",
+      "reading": "にってい",
+      "kanji": "日程",
+      "jlpt": 2,
+      "sentences": [
+        {
+          "sentence": "旅行の日程を決めましょう。",
+          "furigana": "旅行(りょこう)の日程(にってい)を決(き)めましょう。",
+          "sentence_es": "Decidamos el itinerario del viaje.",
+          "sentence_en": "Let's decide on the travel itinerary."
+        },
+        {
+          "sentence": "日程の変更をお願いします。",
+          "furigana": "日程(にってい)の変更(へんこう)をお願(ねが)いします。",
+          "sentence_es": "Por favor, solicito un cambio en la agenda.",
+          "sentence_en": "I would like to request a change in the schedule."
+        }
+      ]
+    }
+  ]
+}
